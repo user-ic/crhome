@@ -1,0 +1,11 @@
+{
+    "name": "cr-home",
+    "version": "1.0.0",
+    "description": "Home dashboard",
+    "manifest_version": 3,
+    "author": "user-ic",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Dashboard"
+    }
+}
